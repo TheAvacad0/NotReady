@@ -20,6 +20,7 @@ Replace/Place the 'NotReady' Extracted zip folder in
 C:\Users\YourUsername\AppData\Local\
 ```
 From here you can pin the Executable to the taskbar
+
 **AppData is a Hidden Folder**
 
 Make Sure you Don't Delete any .ini or .tmp files in the 'NotReady' Folder
