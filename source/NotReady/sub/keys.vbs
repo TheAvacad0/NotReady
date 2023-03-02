@@ -1,1 +1,0 @@
-x=msgbox("Keys: WASD = Arrow Keys, G = Tab, Numbers 0-9 = Types entered numbers, K = Enter, Y = Space, P = Wait 1 Second M = End Recording & U = Backspace." ,64, "Available Keys")
