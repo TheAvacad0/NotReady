@@ -1,0 +1,1 @@
+x=msgbox("Currently Running NotReady (32-bit) v1.0.2.0" ,64, "Launch Info")
