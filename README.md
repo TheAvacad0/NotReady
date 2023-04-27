@@ -12,7 +12,7 @@ Select option you want and answer prompts accordingly
 When the Bot is active Feel free to do something OFF THE COMPUTER.
 Make sure you keep iReady onscreen as well, becuase it will Keep Activating and coming to front
 
-# How to Install/Update
+# How to Install/Update (Pre Update 1.0.3.0)
 
 Replace/Place the 'NotReady' Extracted zip folder in
 ```
