@@ -5,10 +5,6 @@ NotReady is a Local iReady Automation bot utilizing VBScript and Batch
 NotReady is only available for windows (64 and 32-bit), And is only compatible
 with Microsoft Edge (Untested) and Google Chrome.
 
-# Privacy and Safety
-NotReady captures keystrokes as part of the 
-record lesson feature and sends meystrokes to applications. It WILL NEVER SEND LEYSTROKES TO ANYTHING OTHER THAN IREADY. and the record feature can be started and stopped
-
 # How to Use
 
 Open the exectutable along with said iReady Lesson in Browser (You can also pin it to your taskbar or Start Menu!)
